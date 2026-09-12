@@ -8,7 +8,6 @@
 
 # 💻Tech Stack
 
-# AI
 <!-- https://skillicons.dev -->
 ```ts
 const sectionName = "AI";
