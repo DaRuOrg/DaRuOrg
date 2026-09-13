@@ -16,15 +16,15 @@ const sectionName = "AI";
 ```ts
 const sectionName = "MAIN_LANGUAGES";
 ```
-[![Main Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,cs,html,css,bash,powershell)](#)
+[![Main Languages](https://skillicons.dev/icons?i=javascript,typescript,java,cs,python,html,css)](#)
 ```ts
 const sectionName = "FRAMEWORKS";
 ```
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,spring,unity,reactnative,expo)](#)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,react,reactnative,expo,nodejs,spring)](#)
 ```ts
 const sectionName = "MAIN_TOOLS";
 ```
-[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,cloudflare,git,aws,github,vscode,docker)](#)
+[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,rabbitmq,redis,git,github,aws,vscode,docker,elasticsearch,azure)](#)
 
 <div align="center">
   <h1><b>Socials</b></h1>
