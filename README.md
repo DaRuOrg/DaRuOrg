@@ -24,7 +24,7 @@ const sectionName = "FRAMEWORKS";
 ```ts
 const sectionName = "MAIN_TOOLS";
 ```
-[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,rabbitmq,redis,git,github,aws,vscode,docker,elasticsearch,azure)](#)
+[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,rabbitmq,redis,git,github,aws,docker,elasticsearch,azure)](#)
 
 <div align="center">
   <h1><b>Socials</b></h1>
