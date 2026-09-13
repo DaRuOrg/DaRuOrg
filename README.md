@@ -20,7 +20,7 @@ const sectionName = "MAIN_LANGUAGES";
 ```ts
 const sectionName = "FRAMEWORKS";
 ```
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,react,reactnative,expo,nodejs,spring)](#)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,react,reactnative,expo,nodejs,angular,spring)](#)
 ```ts
 const sectionName = "MAIN_TOOLS";
 ```
